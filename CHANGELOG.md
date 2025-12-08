@@ -1,5 +1,16 @@
 # Changelog
 
+## [13.7.2](https://github.com/amzxyz/rime_wanxiang/compare/v13.7.1...v13.7.2) (2025-12-08)
+
+
+### 📚 词库更新
+
+* 自然码辅助兼容删除 ([5d81ec7](https://github.com/amzxyz/rime_wanxiang/commit/5d81ec76fd3f84e3cfb766de082c69ab210446f9))
+* 词库调整 ([bf4d252](https://github.com/amzxyz/rime_wanxiang/commit/bf4d2523e9ef9dc8fab9d0496196bbcf66c98c0c))
+* 词库调整 ([966f732](https://github.com/amzxyz/rime_wanxiang/commit/966f732fa25b2356250edb1173fd90227dbdf9bc))
+* 词库调整 ([88805d2](https://github.com/amzxyz/rime_wanxiang/commit/88805d29024b9991d311154a5287835a1d895da1))
+* 词库调整 ([3276e30](https://github.com/amzxyz/rime_wanxiang/commit/3276e30ea178876538e1daf6363b9cf49fbd7390))
+
 ## [13.7.1](https://github.com/amzxyz/rime_wanxiang/compare/v13.7.0...v13.7.1) (2025-12-06)
 
 
